@@ -1,0 +1,24 @@
+# 🏬 Superstore Sales Analysis Dashboard (Power BI)
+
+This Power BI dashboard analyzes sales performance of a retail superstore across multiple regions and categories. It highlights key metrics like revenue, profit, shipping performance, and customer segmentation.
+
+## 📊 Key Features
+- Regional Sales and Profit breakdown
+- Category and Sub-Category performance
+- Top 10 Customers by Sales & Profit
+- Ship Mode and Order Priority analysis
+- Interactive filters by Region, Category, and Date
+
+## 📁 Files Included
+- `Superstore_Sales.pbix` – The main Power BI report file
+- `superstore_data.xlsx` – Dataset used for the analysis
+- `dashboard_preview.png` – Screenshot of the dashboard
+
+## 🛠 Tools Used
+- Power BI Desktop
+- DAX (for dynamic KPIs and calculated measures)
+- Power Query (for cleaning and transforming data)
+
+## 📷 Dashboard Preview
+
+![Superstore Dashboard](dashboard_preview.png)
