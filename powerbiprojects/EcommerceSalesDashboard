@@ -1,0 +1,35 @@
+# 🛒 E-commerce Sales Dashboard (Power BI)
+
+A comprehensive Power BI dashboard analyzing online retail performance including revenue trends, product category insights, and customer segmentation.
+
+## 📊 Key Features
+- Total Revenue, Orders, and Average Order Value (AOV)
+- Category-wise Sales & Profit Breakdown
+- Sales Trends by Month, Region, and Platform
+- Customer Segment & Region Performance
+- Return Rate and Order Fulfillment Analysis
+- Interactive Slicers for Category, Region, Date, and Platform
+
+## 📁 Files Included
+- `Ecommerce_Sales.pbix` – Power BI report
+- `ecommerce_data.xlsx` – Dataset used for analysis
+- `dashboard_preview.png` – Screenshot of dashboard
+
+## 🛠 Tools & Techniques
+- Power BI Desktop
+- DAX (for KPIs, profit margin calculations, etc.)
+- Power Query (for data cleaning and transformation)
+
+## 📷 Dashboard Preview
+
+![Ecommerce Dashboard](dashboard_preview.png)
+
+---
+
+## 🎯 Use Case
+
+Ideal for e-commerce analysts and business teams to:
+- Track revenue and growth over time
+- Identify best-selling product categories
+- Improve customer segmentation and targeting
+- Optimize regional sales performance
